@@ -3,7 +3,7 @@ import os
 from bs4 import BeautifulSoup
 import openai
 
-openai.api_key = 'sk-proj-c5duz6d2FivwvQ4ZHt1OT3BlbkFJ6pRZDFo21AiSSMaEA49E'
+openai.api_key = ''
 # Function to categorize text using OpenAI
 
 def categorize_text(message):
